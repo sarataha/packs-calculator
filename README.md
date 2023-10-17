@@ -10,7 +10,7 @@ This is an app to calculate the number of packs required to fulfill customer ord
 
 ## Request  
 
-```
+```bash
 curl http://localhost:8080/packs?items=501
 
 ```
